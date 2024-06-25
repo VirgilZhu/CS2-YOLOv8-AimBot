@@ -1,0 +1,8 @@
+keyboard==0.13.5
+mss==9.0.1
+numpy~=1.26.4
+opencv_python==4.10.0.84
+pywin32==306
+ultralytics==8.2.39
+pynput==1.7.6
+opencv-python~=4.10.0.84

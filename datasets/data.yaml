@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../val/images
+test: ../test/images
+
+nc: 6
+names: ['Bomb', 'CT', 'CT-Head', 'Dead', 'T', 'T-Head']
+
+roboflow:
+  workspace: sprite-fanta-gpj4f
+  project: demmodels
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sprite-fanta-gpj4f/demmodels/dataset/7
